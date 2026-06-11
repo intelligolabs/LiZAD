@@ -1,4 +1,4 @@
-# ChronosAD: Leveraging Time Series Foundation Models for Accurate Anomaly Detection
+# LiZAD: A Lightweight Zero-Shot Anomaly Detection Framework for Industrial Manufacturing
 
 The official implementation of the paper [LiZAD: A Lightweight Zero-Shot Anomaly Detection Framework for Industrial Manufacturing]() accepted at the IEEE International Conference on Omni-Layer Intelligent Systems (COINS 2026).
 
